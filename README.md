@@ -1,4 +1,4 @@
-### Olá 👋 meu nome é Caio sou estudante de programação, atualmente focando em Front-end.
+### Olá 👋 https://tenor.com/bEAlI.gif meu nome é Caio! 
 
 ##
 
