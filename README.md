@@ -1,4 +1,8 @@
-### Olá 👋 https://tenor.com/bEAlI.gif meu nome é Caio! 
+### Olá <img height="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"> meu nome é Caio!
+Sou estudante de programação focado em desenvolvimento Front-end! 
+
+
+
 
 ##
 
