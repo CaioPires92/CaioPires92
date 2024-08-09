@@ -1,5 +1,9 @@
 ### Olá <img height="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"> meu nome é Caio!
-Sou estudante de programação focado em desenvolvimento Front-end! 
+Desenvolvedor em formação, apaixonado por tecnologia e focado em me tornar um especialista Fullstack. Atualmente, estou mergulhando profundamente no mundo do C# e .NET, construindo soluções robustas e escaláveis. 
+
+Minha jornada na programação também inclui um sólido conhecimento em JavaScript, TypeScript, React, HTML e CSS. Com essa base diversificada, estou sempre pronto para enfrentar novos desafios e criar aplicações dinâmicas e eficientes.
+
+Vamos construir o futuro juntos!
 
 
 
@@ -11,13 +15,16 @@ Sou estudante de programação focado em desenvolvimento Front-end!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPires92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPires92&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="caio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="caio-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
